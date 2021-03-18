@@ -8,7 +8,7 @@
 
 
 <!-- BLOG-POST-LIST:START -->
-- [New track released – Blue Nile](https://vishsubramanian.me/new-track-released-blue-nile/?utm_source=rss&utm_medium=rss&utm_campaign=new-track-released-blue-nile)
+- [Blue Nile](https://vishsubramanian.me/new-track-released-blue-nile/?utm_source=rss&utm_medium=rss&utm_campaign=new-track-released-blue-nile)
 - [2020 in Books](https://vishsubramanian.me/2020-in-books/?utm_source=rss&utm_medium=rss&utm_campaign=2020-in-books)
 - [ONNX for ML Interoperability](https://vishsubramanian.me/onnx-and-an-example/?utm_source=rss&utm_medium=rss&utm_campaign=onnx-and-an-example)
 - [Replay](https://vishsubramanian.me/replay/?utm_source=rss&utm_medium=rss&utm_campaign=replay)
