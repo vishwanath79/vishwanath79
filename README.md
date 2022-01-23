@@ -7,10 +7,10 @@
 
 <!--START_SECTION:posts-->
 * [Asynchronicity with asyncio and aiohttp](https:&#x2F;&#x2F;vishsubramanian.me&#x2F;async&#x2F;?utm_source&#x3D;rss&amp;utm_medium&#x3D;rss&amp;utm_campaign&#x3D;async)
+* [Genesis at MSG](https:&#x2F;&#x2F;vishsubramanian.me&#x2F;the-last-domino&#x2F;?utm_source&#x3D;rss&amp;utm_medium&#x3D;rss&amp;utm_campaign&#x3D;the-last-domino)
 * [Zone of Proximal Development](https:&#x2F;&#x2F;vishsubramanian.me&#x2F;zone-of-proximal-development&#x2F;?utm_source&#x3D;rss&amp;utm_medium&#x3D;rss&amp;utm_campaign&#x3D;zone-of-proximal-development)
 * [Merkle Trees for Comparisons – Example](https:&#x2F;&#x2F;vishsubramanian.me&#x2F;merkle-trees-for-comparisons&#x2F;?utm_source&#x3D;rss&amp;utm_medium&#x3D;rss&amp;utm_campaign&#x3D;merkle-trees-for-comparisons)
 * [First Principles – Replay](https:&#x2F;&#x2F;vishsubramanian.me&#x2F;first-principles-replay&#x2F;?utm_source&#x3D;rss&amp;utm_medium&#x3D;rss&amp;utm_campaign&#x3D;first-principles-replay)
-* [Prisoners of Geography – Book Review](https:&#x2F;&#x2F;vishsubramanian.me&#x2F;prisoner-of-geography-book-review&#x2F;?utm_source&#x3D;rss&amp;utm_medium&#x3D;rss&amp;utm_campaign&#x3D;prisoner-of-geography-book-review)
 <!--END_SECTION:posts-->
 
 <!--
