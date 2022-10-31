@@ -6,11 +6,11 @@
 ##### Blog posts
 
 <!--START_SECTION:posts-->
+* [DQ Framework](https:&#x2F;&#x2F;vishsubramanian.me&#x2F;dq-framework&#x2F;?utm_source&#x3D;rss&amp;utm_medium&#x3D;rss&amp;utm_campaign&#x3D;dq-framework)
 * [Tenacity for retries](https:&#x2F;&#x2F;vishsubramanian.me&#x2F;tenacity&#x2F;?utm_source&#x3D;rss&amp;utm_medium&#x3D;rss&amp;utm_campaign&#x3D;tenacity)
 * [Book Review – Machine Learning with PyTorch and Scikit-Learn](https:&#x2F;&#x2F;vishsubramanian.me&#x2F;book-review-machine-learning-with-pytorch-and-scikit-learn&#x2F;?utm_source&#x3D;rss&amp;utm_medium&#x3D;rss&amp;utm_campaign&#x3D;book-review-machine-learning-with-pytorch-and-scikit-learn)
 * [Asynchronicity with asyncio and aiohttp](https:&#x2F;&#x2F;vishsubramanian.me&#x2F;async&#x2F;?utm_source&#x3D;rss&amp;utm_medium&#x3D;rss&amp;utm_campaign&#x3D;async)
 * [Genesis at MSG](https:&#x2F;&#x2F;vishsubramanian.me&#x2F;the-last-domino&#x2F;?utm_source&#x3D;rss&amp;utm_medium&#x3D;rss&amp;utm_campaign&#x3D;the-last-domino)
-* [Zone of Proximal Development](https:&#x2F;&#x2F;vishsubramanian.me&#x2F;zone-of-proximal-development&#x2F;?utm_source&#x3D;rss&amp;utm_medium&#x3D;rss&amp;utm_campaign&#x3D;zone-of-proximal-development)
 <!--END_SECTION:posts-->
 
 <!--
