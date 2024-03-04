@@ -23,6 +23,6 @@ jobs:
       - uses: JasonEtco/rss-to-readme@v1
         with:
           feed-url: https://vishsubramanian.me/feed/
-          readme-section: posts 
+          readme-section: feed 
           
 
