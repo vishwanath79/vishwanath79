@@ -25,6 +25,4 @@ jobs:
           feed-url: https://vishsubramanian.me/feed/
           readme-section: posts 
           
-env:
-    name: SSL_CERT_DIR
-    value: "/etc/ssl/certs"
+
