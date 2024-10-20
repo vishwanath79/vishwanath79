@@ -6,12 +6,11 @@
 ##### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-
-* [Aristotle – The WhatsApp AI Bot in Python](https:&#x2F;&#x2F;vishsubramanian.me&#x2F;aristotle-the-whatsapp-ai-bot&#x2F;?utm_source&#x3D;rss&amp;utm_medium&#x3D;rss&amp;utm_campaign&#x3D;aristotle-the-whatsapp-ai-bot)
-* [Deep Learning generated guitar solo on Hi Phi Nation podcast](https:&#x2F;&#x2F;vishsubramanian.me&#x2F;deep-learning-generated-guitar-solo-on-hi-phi-nation-podcast&#x2F;?utm_source&#x3D;rss&amp;utm_medium&#x3D;rss&amp;utm_campaign&#x3D;deep-learning-generated-guitar-solo-on-hi-phi-nation-podcast)
-* [First Principles – Cluster](https:&#x2F;&#x2F;vishsubramanian.me&#x2F;first-principles-cluster&#x2F;?utm_source&#x3D;rss&amp;utm_medium&#x3D;rss&amp;utm_campaign&#x3D;first-principles-cluster)
-* [Thrills of Post-Apocalyptic Fiction](https:&#x2F;&#x2F;vishsubramanian.me&#x2F;thrills-of-post-apocalyptic-fiction&#x2F;?utm_source&#x3D;rss&amp;utm_medium&#x3D;rss&amp;utm_campaign&#x3D;thrills-of-post-apocalyptic-fiction)
-* [DQ Framework](https:&#x2F;&#x2F;vishsubramanian.me&#x2F;dq-framework&#x2F;?utm_source&#x3D;rss&amp;utm_medium&#x3D;rss&amp;utm_campaign&#x3D;dq-framework)
+- [A&lpar;I&rpar;rt on the frame](https://vishsubramanian.me/frame-art/?utm_source=rss&utm_medium=rss&utm_campaign=frame-art)
+- [King Tales – A chilling tour through Bangor, Maine](https://vishsubramanian.me/king-tales-a-tour-through-bangor-maine/?utm_source=rss&utm_medium=rss&utm_campaign=king-tales-a-tour-through-bangor-maine)
+- [Data Engineering in the Age of LLMs](https://vishsubramanian.me/notes-on-data-engineering-in-the-age-of-llms/?utm_source=rss&utm_medium=rss&utm_campaign=notes-on-data-engineering-in-the-age-of-llms)
+- [Advance your AdTech Measurement: Practical Tips](https://vishsubramanian.me/measuring-adtech-solutions/?utm_source=rss&utm_medium=rss&utm_campaign=measuring-adtech-solutions)
+- [Aristotle – The WhatsApp AI Bot in Python](https://vishsubramanian.me/aristotle-the-whatsapp-ai-bot/?utm_source=rss&utm_medium=rss&utm_campaign=aristotle-the-whatsapp-ai-bot)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
