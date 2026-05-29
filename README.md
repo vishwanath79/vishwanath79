@@ -6,8 +6,8 @@
 ##### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Did it all for the cookie](https://vishsubramanian.me/did-it-all-for-the-cookie/)
 - [Light, Hardware, and Seclusion](https://vishsubramanian.me/light-hardware-and-seclusion/)
-- [AdTech for Data Engineers – Primer](https://vishsubramanian.me/adtech-for-data-engineers/)
 - [Data – the authentic foundation for AdTech](https://vishsubramanian.me/data-the-authentic-foundation-for-adtech/)
 - [Spotimmerse – Behind the music](https://vishsubramanian.me/spotimmerse-spotify-clone/)
 - [Unlocking the Groove](https://vishsubramanian.me/unlocking-the-groove/)
