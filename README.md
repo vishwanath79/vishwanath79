@@ -6,11 +6,11 @@
 ##### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [One deliberate call &lpar;the case against agent sprawl&rpar;](https://vishsubramanian.me/one-deliberate-call/)
 - [Dialing In the Ghost in the Machine: LLMs for guitar tones](https://vishsubramanian.me/lm-guitar-tone-generator-polychrome/)
 - [Did it all for the cookie](https://vishsubramanian.me/third-party-cookie-deprecation-first-party-data-2025/)
 - [Light, Hardware, and Seclusion](https://vishsubramanian.me/light-hardware-and-seclusion/)
 - [AdTech for Data Engineers – Primer](https://vishsubramanian.me/adtech-for-data-engineers/)
+- [Data – the authentic foundation for AdTech](https://vishsubramanian.me/data-the-authentic-foundation-for-adtech/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
