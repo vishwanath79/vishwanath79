@@ -6,11 +6,11 @@
 ##### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Truth be told](https://vishsubramanian.me/truth-be-told/)
 - [Fine-tuned without permission](https://vishsubramanian.me/fine-tuned-without-permission/)
 - [Macbeth, a tour guide, and LangGraph](https://vishsubramanian.me/macbeth-and-the-three-agents/)
 - [Do Androids Dream of Vibe Coding?](https://vishsubramanian.me/do-androids-dream-of-vibe-coding/)
 - [I just want a D chord: Suno AI and my quest for a backing track](https://vishsubramanian.me/suno-backing-track/)
-- [My Agentic Development Workflow &lpar;as of July 2026&rpar;](https://vishsubramanian.me/my-agentic-development-workflow-as-of-july-2026/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
