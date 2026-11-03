@@ -6,11 +6,11 @@
 ##### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Out of the Silent Planet, Onto the Screen](https://vishsubramanian.me/out-of-the-silent-planet-onto-the-screen/)
 - [Truth be told](https://vishsubramanian.me/truth-be-told/)
 - [Fine-tuned without permission](https://vishsubramanian.me/fine-tuned-without-permission/)
 - [Macbeth, a tour guide, and LangGraph](https://vishsubramanian.me/macbeth-and-the-three-agents/)
 - [Do Androids Dream of Vibe Coding?](https://vishsubramanian.me/do-androids-dream-of-vibe-coding/)
-- [I just want a D chord: Suno AI and my quest for a backing track](https://vishsubramanian.me/suno-backing-track/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
